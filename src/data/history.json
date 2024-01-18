@@ -1,0 +1,170 @@
+[
+    {
+      "id":1,
+      "projectTitle": "Book Researcher API",
+      "startDate": "Nov, 2023",
+      "summary": [
+        "Developed full-stack API with controllers", 
+        "Integrated API with React client"],
+      "imageSrc": "history/google.png",
+      "skills": ["C#", "React"] 
+    },
+    {
+      "id":2,
+      "projectTitle": "Movie Ratings Platform",
+      "startDate": "Oct, 2022",
+      "summary": [
+        "Developed Cloud Native App with ASP.NET.",
+        "Deployed on AWS Elastic Beanstalk."
+        ],
+      "imageSrc": "history/google.png",
+      "skills": ["C#"] 
+    },
+    {
+      "id":3,
+      "projectTitle": "S3 Management Console",
+      "startDate": "Sept, 2023",
+      "summary": [
+        "Implemented AWS S3 in C#.",
+        "Created GUI for bucket operations."],
+      "imageSrc": "history/google.png",
+      "skills": ["C#"] 
+    },
+    
+    {
+      "id":4,
+      "projectTitle": "Tournament bracket website",
+      "startDate": "Nov, 2022",
+      "summary": [
+        "Developed website with Node.js, Bootstrap.",
+        "Managed CRUD operations, utilized Jira."],
+      "imageSrc": "history/google.png",
+      "skills": ["React"] 
+    },
+    {
+      "id":5,
+      "projectTitle": "Money Analysis App",
+      "startDate": "Oct, 2023",
+      "summary": [
+        "Built money analysis app with Agile SDLC.",
+        "Finalized with React for web release."],
+      "imageSrc": "history/google.png",
+      "skills": ["SDLC", "React"] 
+    },
+    {
+      "id":6,
+      "projectTitle": "SmartPhone Order form",
+      "startDate": "Sept, 2023",
+      "summary": [
+        "Developed MVC Web App for DigiTel.",
+        "Implemented Thymeleaf, Java for Ordering System."],
+      "imageSrc": "history/google.png",
+      "skills": ["Java"] 
+    },
+    
+    {
+      "id":7,
+      "projectTitle": "Bloodbank service App",
+      "startDate": "Nov, 2023",
+      "summary": [
+        "Developed Blood Bank Info System.",
+        "Implemented with Spring Boot, tested in Postman."],
+      "imageSrc": "history/google.png",
+      "skills": ["Java"] 
+    },
+    {
+      "id":8,
+      "projectTitle": "Airline Customer Form",
+      "startDate": "Dec, 2023",
+      "summary": [
+        "Designed Spring Boot REST API for airline",
+        "Implemented MongoDB; tested with Postman"
+        ],
+      "imageSrc": "history/google.png",
+      "skills": ["Java"] 
+    },
+    {
+      "id":9,
+      "projectTitle": "SRS-Centennial Residence Portal",
+      "startDate": "May, 2022",
+      "summary": [
+        "Develop SRS for roommate matching portal.", 
+        "Built scenario, class, and behavior-based models"],
+      "imageSrc": "history/google.png",
+      "skills": ["SDLC"] 
+    },
+    {
+      "id":10,
+      "projectTitle": "SRS-Contractor connect",
+      "startDate": "Oct, 2022",
+      "summary": [
+        "Applied systems modeling in SRS development.",
+        "Included context flow, UML, ERD, use case diagrams."
+        ],
+      "imageSrc": "history/google.png",
+      "skills": ["SDLC"] 
+    },
+    {
+      "id":11,
+      "projectTitle": "Project Generator - Mobile app",
+      "startDate": "Jan, 2023",
+      "summary": [
+        "Developed hourly rate app for Android using Kotlin",
+        "Tested on Pixel 4 XL API 30"],
+      "imageSrc": "history/google.png",
+      "skills": ["Android"] 
+    },
+    
+    {
+      "id":12,
+      "projectTitle": "SQL Lab Showcase",
+      "startDate": "May, 2022",
+      "summary": [
+        "Basic relational database concepts, structures, queries.",
+        "Focuses on Oracle/SQL, uses Visio for ERDs"],
+      "imageSrc": "history/google.png",
+      "skills": ["PL/SQL"] 
+    },
+    {
+      "id":13,
+      "projectTitle": "PL/SQL Lab Showcase",
+      "startDate": "Sept, 2022",
+      "summary": [
+        "Advanced knowledge in RDBMS, NoSQL databases.",
+        "Covers SQL, NoSQL techniques; includes project work."],
+      "imageSrc": "history/google.png",
+      "skills": ["PL/SQL"] 
+    },
+    {
+      "id":14,
+      "projectTitle": "Toronto Bicycle Theft Prediction",
+      "startDate": "Sept, 2023",
+      "summary": [
+        "Built pickle model ",
+        "Using flask to predict the bicycle stealing rate."],
+      "imageSrc": "history/google.png",
+      "skills": ["Python"] 
+    },
+    
+    {
+      "id":15,
+      "projectTitle": "Data Full Assignment showcase",
+      "startDate": "Nov, 2023",
+      "summary": [
+        "Exploring Microsoft Azure & PowerBI",
+        "Machine learning"],
+      "imageSrc": "history/google.png",
+      "skills": ["Python"] 
+    },
+    {
+      "id":16,
+      "projectTitle": "Content Creator",
+      "startDate": "Feb, 2019",
+      "summary": [
+        "Edited K-pop videos using InShot and CapCut.",
+        "Gained 20+ million views and 17,500 followers."
+        ],
+      "imageSrc": "history/google.png",
+      "skills": ["Entrepreneur"] 
+    }
+  ]

@@ -1,0 +1,417 @@
+[
+  {
+      "projectTitle": "S3 Management Console",
+      "projectOverview": [
+          "This project involved creating a Windows Presentation Foundation (WPF) application in C# to interact with AWS services, specifically AWS S3 and IAM",
+          "The application enabled users to perform cloud operations like creating and deleting S3 buckets, and uploading objects to these buckets through a user-friendly graphical interface",
+          "This project demonstrated a comprehensive understanding of AWS IAM and S3 buckets, showcasing skills in cloud resource management",
+          "The implementation involved using C# for the application's backend logic, highlighting proficiency in both cloud computing and software development."
+      ],
+      "technologiesUsed": [
+          "C#",
+          "AWS",
+          "ASP.NET",
+          "WPF",
+          "OOP"
+      ],
+      "keyFeatures": [
+          "1.Use AWS IAM service",
+          "2.Differentiate AWS storage services"
+      ],
+      "lessonsLearned": "Through this project, I gained hands-on experience using C# to access and manipulate data in AWS cloud storage for the first time.",
+      "potentialImprovement": [
+          "The function to display newly uploaded objects in the data grid could be improved."
+      ],
+      "projectImageUrl": "experience/experienceDetail/c3Bucket.png",
+      "videoDemoUrl":"https://youtu.be/tUWmWHQH6jI",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP306-CS-Labs/tree/master/301133339_Liu_Lab1"
+      
+  },
+  {
+      "projectTitle": "Movie Ratings Platform",
+      "projectOverview": [
+          "In this project, I developed a cloud-native ASP.NET Core MVC web application, resembling a movie streaming and rating platform",
+          "I integrated AWS RDS with Microsoft SQL Server, S3, and DynamoDB for user management, movie storage, and metadata handling",
+          "The application allowed users to upload, download, comment on, and rate movies, with features for modifying comments and efficient movie searches",
+          "I ensured application security and streamlined deployment using AWS IAM and Elastic Beanstalk."
+      ],
+      "technologiesUsed": [
+          "ASP.NET Core MVC",
+          "DynamoDB",
+          "Elastic Beanstalk",
+          "Microsoft SQL Server"
+      ],
+      "keyFeatures": [
+          "1.Gain expertise in AWS DynamoDB, VPC, and RDS instance provisioning.",
+          "2.Developed C# applications for DynamoDB data manipulation.",
+          "3.Developed and deployed a full-stack MVC web application on AWS Elastic Beanstalk."
+      ],
+      "lessonsLearned": "This project allowed me to explore more AWS features and advanced functions, such as connecting to SQL Server in the cloud and programmatically interacting with DynamoDB.",
+      "potentialImprovement": [
+          "Users should be able to edit their comments within 24 hours; this functionality could be enhanced."
+      ],
+      "projectImageUrl": "experience/experienceDetail/c2Movie.png",
+      "videoDemoUrl":"https://youtu.be/dZ8ZtV7Ztwk",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP306-CS-Labs/tree/main/MovieRatingApp_Lab/301133339_liu_lab3"
+  },
+  {
+      "projectTitle": "Book Researcher API",
+      "projectOverview": [
+          "Based on the requirement of this project, we are told to build my own API and consume the API as a client",
+          "We first confirm the topic and finished the proposal, the concept we choose is a book researcher api that Enable librarians and readers to search for books across library branches based on title or author",
+          "Then we build a Library ER diagram using lucid chart",
+          "My role was to build the structure of api using AspNetCore, I built DTO classes,repository pattern , mapping and controller classes",
+          "Then I combine my teammates's work and tested it with Postman",
+          "then contanalize it using docker,publish the API using google apigee and include API Key",
+          "Finally we use the API key to consume the published API using react",
+          "My role was to instantiate HTTP client and invoke Get All and GetbyID methods."
+      ],
+      "technologiesUsed": [
+          "Asp.NetCore",
+          "React",
+          "Docker",
+          "Postman",
+          "Google apigee",
+          "AWS",
+          "Microsoft SQL server"
+      ],
+      "keyFeatures": [
+          "1.Built the Book researcher api",
+          "2.Publish the book respearcher api",
+          "3.Consume the book researcher api"
+      ],
+      "lessonsLearned": "Technically, I learned how an entire API system functions, from building and deploying it in the cloud to consuming it as a client. I also realized the importance of not being overly ambitious in project scope and the need for balanced focus and time management between different aspects of the project.",
+      "potentialImprovement": [
+          "The implementation of PATCH and PUT methods could be better optimized.",
+          "The UI could benefit from enhancements, such as adding images for book searches."
+      ],
+      "projectImageUrl": "experience/experienceDetail/c1BookApi.png",
+      "videoDemoUrl":"",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP306-CS-Labs/tree/main/BookResearcherAPIProject"
+  },
+  {
+      "projectTitle": "Tournament bracket website",
+      "projectOverview": [
+          "I played a key role in a six-member team that developed a Tournament Bracket Generator website, \u201cAceOfRace.\u201d My contributions to the project included constructing the core website infrastructure using Node.js, npm, and Bootstrap, and facilitating deployment through GitHub and Heroku",
+          "I was instrumental in implementing CRUD operations for game, index, and user pages, and I managed the associated routes and controllers",
+          "Additionally, I was responsible for designing and developing HTML content for sections like \"About,\" \"Home,\" and \"Contact\" within EJS templates",
+          "My participation also extended to using Jira for monitoring project progress and collaborating on setting up MongoDB for the storage of user accounts."
+      ],
+      "technologiesUsed": [
+          "JavaScript",
+          "HTML",
+          "Node.js",
+          "MongoDB",
+          "CRUD",
+          "Bootstrap",
+          "Jira."
+      ],
+      "keyFeatures": [
+          "1.Comprehensive CRUD Operations for Game and User Pages.",
+          "2.MongoDB Integration for Secure User Account Storage."
+      ],
+      "lessonsLearned": "Gained expertise in full stack web development using Node.js, npm, Bootstrap, HTML, and EJS, along with team collaboration using GitHub and Jira.",
+      "potentialImprovement": [
+          "The feature for comparing two teams can be improved.",
+          "Greater participation in project development using Jira is advisable."
+      ],
+      "projectImageUrl": "experience/experienceDetail/r1Game.jpg",
+      "videoDemoUrl":"https://youtu.be/V3Jn8fCovDI",
+      "githubUrl":"https://github.com/AceOfRace/finalRelease"
+  },
+  {
+      "projectTitle": "Money Analysis App",
+      "projectOverview": [
+          "As a leader in the team of 5, we applied the Agile methodologies taught in COMP231 during the development cycle and built the TAC Technical Report at the end, the process involving,project proposal",
+          "User role modeling, user story, 2 release plan, 2 iteration plan, 2 progress monitoring, and 1 software release",
+          "We developed a money analysis application using react for the software release",
+          "Each week we form an online meeting and record the video report for developing this project."
+      ],
+      "technologiesUsed": [
+          "Software development life cycle(SDLC)",
+          "Agile",
+          "React"
+      ],
+      "keyFeatures": [
+          "1.Use of varity of tools to build the report: Microsoft visio, Sprint Planner, Burndown chart, paper prototype,Github.",
+          "2.work in teams to design, implement, and document an application or a component for a hypothetical organization."
+      ],
+      "lessonsLearned": "Learned leadership and effective communication with diverse team members.",
+      "potentialImprovement": [
+          "Video reports should include more content on group discussions and brainstorming sessions",
+          "Written reports should be more concise and less wordy."
+      ],
+      "projectImageUrl": "experience/experienceDetail/r2Money.jpg",
+      "videoDemoUrl":"https://www.youtube.com/playlist?list=PLj-sGmCi9DpT6AMhF_C2xLK-pWDjM1PKG",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP231-SDLC-doc/tree/master/COMP231%20-%20Money%20Analysis%20App"
+  },
+  {
+      "projectTitle": "SmartPhone Order form",
+      "projectOverview": [
+          "In this project, I built a simple yet effective online ordering system for a smartphone store using Java Spring Boot and Thymeleaf",
+          "The application allows users to fill out a form with their personal details and choose their desired phone, including brand and quantity",
+          "After submitting the form, it calculates and displays the total cost and their details",
+          "This project was a practical exercise in using Spring Boot for the backend and Thymeleaf for the frontend, showcasing my skills in creating an easy-to-use web app for e-commerce purposes"
+      ],
+      "technologiesUsed": [
+          "Java",
+          "Spring Boot",
+          "Thymeleaf",
+          "HTML5",
+          "CSS"
+      ],
+      "keyFeatures": [
+          "1.The application's backend, powered by Java Spring Boot, efficiently handles form submissions, processes data, and manages business logic.",
+          "2.For the frontend, Thymeleaf templating is used to dynamically render web pages and design the user interface, enhancing user interaction and experience."
+      ],
+      "lessonsLearned": "Became familiar with Dependency Injection, Spring Context, and the capabilities of the Thymeleaf template engine in web development.",
+      "potentialImprovement": [
+          "The results page UI design can be improved."
+      ],
+      "projectImageUrl": "experience/experienceDetail/j1Phone.jpg",
+      "videoDemoUrl":"https://youtu.be/WZBT6veLihY",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP303-Java-Labs/tree/master/SmartPhone%20Order%20Form/Ziyan-COMP303-Assignment1/src/main"
+  },
+  {
+      "projectTitle": "Bloodbank service App",
+      "projectOverview": [
+          "In this assignment, I built a Blood Bank Information System using Spring Boot.I developed Controller Java files for managing web services and a service layer to handle the business logic",
+          "The application supported RESTful services for 3 entities, which are BloodSeekers, BloodBanks, and BloodStock, with capabilities full CRUD capabilities for creating, reading, updating, and deleting data",
+          "I tested these features using Postman at the end",
+          "This project not only honed my skills in Spring Boot and RESTful service development but also gave me valuable experience in managing MVC packages."
+      ],
+      "technologiesUsed": [
+          "RESTful services",
+          "Postman",
+          "Spring Boot",
+          "Java",
+          "Thymeleaf"
+      ],
+      "keyFeatures": [
+          "1.Developed RESTful services for blood data management.",
+          "2.Tested successfully in json format in POSTMAN"
+      ],
+      "lessonsLearned": "Understood the use of Spring support for REST: annotations like @RequestMapping, @PathVariable, and method conversion.",
+      "potentialImprovement": [
+          "The attributes for the two entities could be more varied."
+      ],
+      "projectImageUrl": "experience/experienceDetail/j2Bloodbank.jpg",
+      "videoDemoUrl":"https://youtu.be/nFYWEvrvkAA",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP303-Java-Labs/tree/master/BloodBank%20Service%20App/SpringBoot-Ziyan-Assign3Appplication/src/main/java/com/spring/jpa"
+  },
+  {
+      "projectTitle": "Airline Customer Form",
+      "projectOverview": [
+          "In this project, I developed an online web application for airline reservations using a Spring Boot app with REST API",
+          "Users can enter their information, such as name, departure date and time, and class level, which is then stored in MongoDB",
+          "Additionally, I designed a client-side application using Thymeleaf to interact with the RESTful API, providing a seamless user experience",
+          "To ensure functionality and reliability, I tested the application, particularly focusing on implementing and verifying RESTful services (GET and POST methods) through Postman."
+      ],
+      "technologiesUsed": [
+          "REST API",
+          "MongoDB",
+          "Thymeleaf",
+          "Postman",
+          "Spring Boot"
+      ],
+      "keyFeatures": [
+          "1.Developed a RESTful API for efficient data handling.",
+          "2.Integrated MongoDB for robust information storage.",
+          "3.Implemented Thymeleaf to interact with the RESTful API."
+      ],
+      "lessonsLearned": "Learned full-stack web application development using Spring Boot in Java.",
+      "potentialImprovement": [
+          "The interaction between the client-side page and MongoDB could be strengthened."
+      ],
+      "projectImageUrl": "experience/experienceDetail/j3Airline.jpg",
+      "videoDemoUrl":"https://youtu.be/_o-lQ3PKE9g",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP303-Java-Labs/tree/master/Airline%20Customer%20Form/Ziyan_COMP303_FinalExam/src/main/java/com/spring/boot/micro"
+  },
+  {
+      "projectTitle": "SRS-Centennial Residence Portal",
+      "projectOverview": [
+          "In a team of five, I worked on the \"Centennial Residence Place Portal,\" a software designed to help students find compatible roommates",
+          "Our main goal was to create an app that matches students based on shared values and interests",
+          "We focused on documenting user requirements and creating a detailed software requirements specification",
+          "Our work involved building various analysis models, including scenario, class, and behavior-based models, using both text and UML diagrams",
+          "This project was a practical application of software development skills in a real-world context."
+      ],
+      "technologiesUsed": [
+          "SDLC",
+          "Agile",
+          "UML"
+      ],
+      "keyFeatures": [
+          "1.Developed detailed software requirements and analysis models.",
+          "2.Matchmaking students based on values and interests."
+      ],
+      "lessonsLearned": "This project was my first practical application of software engineering processes, building a strong foundation for teamwork in software requirement specification.",
+      "projectImageUrl": "experience/experienceDetail/sd1Cencol.jpg",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP231-SDLC-doc/blob/master/SRS%20-%20COMP225-Centennial%20Residence%20Place%20Portal.pdf"
+  },
+  {
+      "projectTitle": "SRS-Contractor connect",
+      "projectOverview": [
+          "In this Object-Oriented Software Engineering project, my team of six developed a Software Requirements Specification (SRS) document for \"Contractor Connect,\" an app designed to bridge the gap between customers and professional contractors",
+          "Our project emphasized agile methodologies, UML workflows, and use cases, incorporating elements like class diagrams and database schema",
+          "This comprehensive approach in creating the SRS document not only honed our technical documentation skills but also enhanced our understanding of system analysis and user-centered interface design, aligning with the course's focus on iterative and incremental software development approaches."
+      ],
+      "technologiesUsed": [
+          "Agile",
+          "UML",
+          "Microsoft Visio"
+      ],
+      "keyFeatures": [
+          "1.The methodology followed is iterative Agile based with UML as the main diagramming and modeling tool"
+      ],
+      "lessonsLearned": "In mobile app development, I understood different software architectures and principles and developed a mobile app using Kotlin in Android Studio IDE.",
+      "potentialImprovement": [
+          "The relationship between contractors and freelancers in the domain class diagram needs more definition."
+      ],
+      "projectImageUrl": "experience/experienceDetail/sd2Contractor.png",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP231-SDLC-doc/blob/master/SRS%20-%20COMP246-Contractor%20Connect.docx"
+  },
+  {
+      "projectTitle": "Project Generator - Mobile app",
+      "projectOverview": [
+          "I developed a mobile app using Kotlin in Android Studio, designed to calculate employee salaries",
+          "Users enter project details, then proceed to a page where they input hourly rates and working hours",
+          "This project demonstrated practical application of the Android activity life cycle, use of fragments, and building advanced Graphical User Interfaces (GUIs) in XML",
+          "It also involved handling events and accessing remote services",
+          "For testing and emulation, I used the Pixel 4 XL API 30 (Android 11.0 Google APIs) virtual device",
+          "This project not only enhanced my technical skills in Android app development but also deepened my understanding of UI design and event management in mobile applications."
+      ],
+      "technologiesUsed": [
+          "Kotlin",
+          "Android Studio",
+          "XML",
+          "Advance GUI"
+      ],
+      "keyFeatures": [
+          "1.Demonstrates complex GUI design, event handling, and activity lifecycle management in Android."
+      ],
+      "lessonsLearned": "Learned about data types, table structures, relationships, and data access queries using QBE grid and SQL through lab exercises.",
+      "potentialImprovement": [
+          "Grade for COMP304:A\n  \n 2.As the course shell is closed and I didn't save most of the assignments, I\u2019m unable to showcase my full Android Studio skills",
+          "For more details about my mobile app development experience, please feel free to contact me."
+      ],
+      "projectImageUrl": "experience/experienceDetail/a1Mobile.png",
+      "githubUrl":"https://github.com/Ziyan33/23W-COMP304-Mobile-Labs/tree/master/Calculate%20Employee%20Salary%20App/ziyanLiu_COMP304Sec003_MidtermTest1"
+  },
+  {
+      "projectTitle": "SQL Lab Showcase",
+      "projectOverview": [
+          "The SQL Lab Showcase on my GitHub reflects the database skills I developed during my second-semester Database course",
+          "It includes clear examples and visual evidence of my ability to construct and manage databases using SQL in Oracle",
+          "The tasks demonstrated range from setting up database structures and running queries to securing sensitive data",
+          "This showcase provides a practical demonstration of my proficiency in using SQL commands for efficient creation, management, and data retrieval"
+      ],
+      "technologiesUsed": [
+          "SQL",
+          "Oracle",
+          "DBMS",
+          "ERD"
+      ],
+      "keyFeatures": [
+          "1.Created databases using SQL DDL.",
+          "2.Managed data with SQL DML."
+      ],
+      "lessonsLearned": "Expanded my knowledge in advanced SQL, PL/SQL, and NoSQL.",
+      "projectImageUrl": "experience/experienceDetail/db1Sql.jpg",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP214-SQL-Labs/tree/master/22SU-COMP122-SQL%20Labs"
+  },
+  {
+      "projectTitle": "PL/SQL Lab Showcase",
+      "projectOverview": [
+          "The SQL Lab Showcase, featuring code snippets and screenshots on my GitHub, demonstrates my skills in advanced SQL queries and PL/SQL",
+          "It includes advanced data and table manipulation, NoSQL document management, CRUD operations, data queries, as well as indexing and aggregation techniques"
+      ],
+      "technologiesUsed": [
+          "PL/SQL",
+          "NoSQL",
+          "RDBMS"
+      ],
+      "keyFeatures": [
+          "1.PL/SQL procedures, triggers, functions, and packages to access and manipulate data."
+      ],
+      "lessonsLearned": "Expand my knowledge in advanced SQL and PL/SQL, NoSql.",
+      "potentialImprovement": [
+          "I will continue learning in the future to gain more knowledge about databases."
+      ],
+      "projectImageUrl": "experience/experienceDetail/db2PLSql.jpg",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP214-SQL-Labs/tree/master/22Fall-COMP214-PLSQL%20Labs"
+  },
+  {
+      "projectTitle": "Toronto Bicycle Theft Prediction",
+      "projectOverview": [
+          "In collaboration with a team of five, we embarked on a project using an open-source dataset of bicycle thefts reported to the Toronto Police Service from 2014 to 2022",
+          "Our goal was to predict whether a bicycle would be 'Stolen' or 'Recovered' based on specific features such as 'PRIMARY_OFFENCE', 'BIKE_COST', 'REPORT_DOY', 'BIKE_MAKE', and 'BIKE_MODEL'.\n  \n We focused on visualizing and cleaning the dataset, employing transformation techniques, and creating supervised predictive models, including decision trees and logistic regression, with Python libraries like scikit-learn, pandas, and numpy",
+          "The project also involved developing a Flask-built API and a simple front-end interface to facilitate data transformation and automate model scoring"
+      ],
+      "technologiesUsed": [
+          "Python",
+          "PowerBI",
+          "Flask",
+          "RESTful API"
+      ],
+      "keyFeatures": [
+          "1.Full cycle for Web prediction service using python and flask"
+      ],
+      "lessonsLearned": "Discovered through data exploration a higher likelihood of bicycle thefts during COVID, likely due to unemployment. Enhanced my knowledge in various cloud-based platforms, analytics tools, and hands-on Python coding for machine learning.",
+      "potentialImprovement": [
+          "The accuracy of predictive modeling can be enhanced."
+      ],
+      "projectImageUrl": "experience/experienceDetail/p1Bicycle.png",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP309-Python-ML-Labs/tree/master/23Fall%20-%20COMP309%20-%20Bicycle%20_Theft_GroupProject/Group3%20-%20Bicycle_Theft_Project"
+  },
+  {
+      "projectTitle": "Data Full Assignment showcase",
+      "projectOverview": [
+          "This Datawarehs & predictive learning lab showcase hold both screen shot of me will gain hands-on experience by\n using a cloud based and on-premises data warehousing tools: blobs, SQL data warehouse & data lakes like Microsoft azure , Microsoft sql server and powerBI tec",
+          "the code snippet demonstrate of me implement machine learning algorithms using python machine learning algorithms: Linear regression, logistic regression, decision\n tree, K-means clustering on various data-sets."
+      ],
+      "technologiesUsed": [
+          "Microsoft Azure",
+          "Python",
+          "PowerBI",
+          "Flask"
+      ],
+      "keyFeatures": [
+          "1.Exploring various features in Microsoft Azure and PowerBI",
+          "2.Design, code and test machine learning models"
+      ],
+      "lessonsLearned": "Through these lab and exercises , I am able to  expland my knowledge in various cloud based platform , analytics tools and apply hands on coding in python for maching learning ,",
+      "potentialImprovement": [
+          "Exploration within PowerBI can be expanded."
+      ],
+      "projectImageUrl": "experience/experienceDetail/p2labs.webp",
+      "githubUrl":"https://github.com/Ziyan33/23Fall-COMP309-Python-ML-Labs/tree/master/23Fall%20-%20COMP309%20-%20FULL%20Assignment-Data%20Warehs%26Predictive%20Learning"
+  },
+  {
+      "projectTitle": "Content Creator",
+      "projectOverview": [
+        ".",
+        "When I was in high school, I thought about earning money in my spare time and decided to create video content, as it was a cost-free startup. My passion for K-pop music inspired me to start with K-pop content",
+          ".",
+          "Initially, I cut highlights from idol dance fancams and posted them on TikTok. These early videos garnered only a few views, which led me to seek better engagement.\n  \n I began using a video editor app on my phone to translate subtitles from Korean to Chinese",
+          ".",
+          "Although I didn't know Korean, the official videos had English subtitles, which I used as a guide. Adding subtitles frame by frame on my phone was time-consuming but paid off when my first video hit 100k views. This success encouraged me to continue, but I soon realized I couldn't earn from this work due to content ownership issues.\n",
+          ".",
+          "I shifted my focus to the latest news, and this strategy change significantly increased my popularity. My videos started gaining traction, with five surpassing 1 million views and seven over 500k views\n",
+          ".",
+          "During this process, I learned video effects, titling, thumbnail creation, and how to handle both positive and negative feedback professionally."
+      ],
+      "technologiesUsed": [
+          "Digital marketing",
+          "Content Creation",
+          "Video editing"
+      ],
+      "keyFeatures": [
+          "1.Achieved significant success in social media engagement, amassing 20 million views and gaining over 17,500 followers."
+      ],
+      "lessonsLearned": "This experience benefited my software engineering studies by enabling me to create tutorial videos for classmates and contribute effectively to group projects. When team members missed meetings, I could combine their separate video recordings into cohesive presentations, enhancing our group work.",
+      
+      "projectImageUrl": "experience/experienceDetail/e1Kpop.jpg",
+      "videoDemoUrl":"https://space.bilibili.com/394367111"
+  }
+]

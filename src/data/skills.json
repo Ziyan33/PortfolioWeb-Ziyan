@@ -1,0 +1,34 @@
+[
+    {
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "SDLC",
+      "imageSrc": "skills/sdlc.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "PL/SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Android",
+      "imageSrc": "skills/android.png"
+    },
+    {
+      "title": "Entrepreneur",
+      "imageSrc": "skills/videoedit.png"
+    }
+  ]
