@@ -105,7 +105,15 @@
   .container {
     flex-direction: column-reverse;
   }
-
+  .title {
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 33px;
+ }
+ .description {
+  font-size: 20px;
+}
   .content {
     align-items: center;
   }

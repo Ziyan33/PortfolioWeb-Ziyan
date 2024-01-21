@@ -27,10 +27,17 @@ export const Experience = () => {
     };
   }, [selectedExperience]);
   
+
+//
+
   const handleSkillClick = (skillTitle) => {
     setSelectedSkill(skillTitle);
+  
   };
- 
+
+
+//
+
   const handleHistoryItemClick = (historyItem) => {
     console.log("History item clicked:", historyItem);
     setSelectedExperience(historyItem);
@@ -48,7 +55,7 @@ export const Experience = () => {
           {skills.map((skill, id) => {
           
             return (
-              <div 
+              <div
                 key={id} 
                 className={`${styles.skill} ${selectedSkill === skill.title ? styles.skillSelected : ''}`} 
                 onClick={() => handleSkillClick(skill.title)}
@@ -66,7 +73,7 @@ export const Experience = () => {
             );
           })}
         </div>
-        <ul className={styles.history}>
+        <ul className={styles.history} id="history-section">
           {history
            .filter(historyItem => !selectedSkill || (historyItem.skills && historyItem.skills.includes(selectedSkill)))
            .map((historyItem, id) => {

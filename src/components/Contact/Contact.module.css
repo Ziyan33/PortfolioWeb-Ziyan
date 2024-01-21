@@ -61,4 +61,18 @@
   .links {
     align-items: center;
   }
+  
+  .text h2 {
+    font-size: 50px;
+    font-weight: 700;
+  }
+
+  .text p {
+    font-size: 23px;
+    font-weight: 400;
+  }
+  .link a {
+    font-size: 20px;
+    font-weight: 400;
+  }
 }
